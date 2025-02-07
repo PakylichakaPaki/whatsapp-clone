@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Login from './components/Login';
 import Chat from './components/Chat';
 import WhatsAppAPI from './services/api';
